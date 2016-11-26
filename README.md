@@ -5,7 +5,7 @@ A simple translation manage tool
 
 ```sql
 Create Table project (
-	project_id int not null auto_increment,
+  project_id int not null auto_increment,
   project_name varchar(80) not null,
   primary key(project_id)
 );
