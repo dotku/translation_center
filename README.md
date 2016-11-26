@@ -3,7 +3,7 @@ A simple translation manage tool
 
 ## Database Design
 
-```
+```mysql
 Create Table project (
 	project_id int not null auto_increment,
   project_name varchar(80) not null,
