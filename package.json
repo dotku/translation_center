@@ -1,0 +1,15 @@
+{
+  "name": "translation_center",
+  "version": "0.1.0",
+  "description": "a translation project",
+  "description_cn": "一个翻译项目",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "translation"
+  ],
+  "author": "Weijing Jay Lin <weijingjaylin@gmail.com>",
+  "license": "MIT"
+}
